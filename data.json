@@ -1,0 +1,132 @@
+﻿{
+  "Questions": {
+    "0": [
+      "Geography",
+      "What state has the highest population density?",
+      "Monaco",
+      "Singapore",
+      "Vatican City",
+      "Bahrain"
+    ],
+    "1": [
+      "Geography",
+      "Roughly how tall is Mount Everest?",
+      "8848 meters",
+      "9343 meters",
+      "8.322 km",
+      "73000 mm"
+    ],
+    "2": [
+      "Geography",
+      "What are the worlds most populated countries?",
+      "China, India and the US",
+      "China, Russia and the US",
+      "Russia, Brazil and the Soviet Union",
+      "England, Russia and the US"
+    ],
+    "3": [
+      "Geography",
+      "What is the highest mountain on earth, top to bottom?",
+      "Mauna Kea",
+      "Mount Everest",
+      "K-2",
+      "Kangchenjunga"
+    ],
+    "4": [
+      "Science",
+      "What field did Stephen Hawking mainly study?",
+      "Theoretical physics",
+      "Relative physics",
+      "Imaginary physics",
+      "The gravity of your mom"
+    ],
+    "5": [
+      "Science",
+      "Which planet has the lowest gravity?",
+      "Mercury",
+      "Venus",
+      "Uranus",
+      "Jupiter"
+    ],
+    "6": [
+      "Science",
+      "What is the largest machine in the world?",
+      "Large Hadron Collider",
+      "Bucket wheel excavator",
+      "The Prelude ship",
+      "NASA Crawler-Transporter"
+    ],
+    "7": [
+      "Geography",
+      "Which is not a city state?",
+      "Luxembourg",
+      "Singapore",
+      "Monaco",
+      "Vatican City"
+    ],
+    "8": [
+      "Geography",
+      "What is the most southern south-american country?",
+      "Chile",
+      "Argentina",
+      "United Kingdom",
+      "Uruguay"
+    ],
+    "9": [
+      "Geography",
+      "Which of these african countries has the highest GDP per capita?",
+      "Equatorial Guinea",
+      "Seychelles",
+      "Mauritius",
+      "Egypt"
+    ],
+    "10": [
+      "Geography",
+      "Which of these european countries has the biggest population?",
+      "Germany",
+      "France",
+      "United Kingdom",
+      "Italy"
+    ],
+    "11": [
+      "Science",
+      "What is the chemical formula for heavy water?",
+      "D20",
+      "H40",
+      "H80",
+      "H202"
+    ],
+    "12": [
+      "Science",
+      "In physics, what is amplitude?",
+      "Measure of a waves oscillation size",
+      "Different term for frequency",
+      "Wavelength",
+      "Wave peak to wave bottom"
+    ],
+    "13": [
+      "Science",
+      "What did Alexander Fleming discover?",
+      "Antibiotic penicillin",
+      "Gravity",
+      "That the earth is flat",
+      "Tectonic plates"
+    ],
+    "14": [
+      "Science",
+      "What is a lobotomy",
+      "Severing connections in the brain",
+      "Dividing the brain",
+      "A sort of brain scan",
+      "Unintentional damage to brain"
+    ],
+    "15": [
+      "Science",
+      "Where is enamel",
+      "It's part of teeth",
+      "In joints",
+      "Around bones",
+      "In the eye ball"
+    ]  	
+  }
+}
