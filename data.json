@@ -114,7 +114,7 @@
     ],
     "14": [
       "Science",
-      "What is a lobotomy",
+      "What is a lobotomy?",
       "Severing connections in the brain",
       "Dividing the brain",
       "A sort of brain scan",
@@ -122,11 +122,1755 @@
     ],
     "15": [
       "Science",
-      "Where is enamel",
+      "Where is enamel?",
       "It's part of teeth",
       "In joints",
       "Around bones",
       "In the eye ball"
-    ]  	
+    ],
+    "16": [
+      "Science",
+      "Fungi are plants that lack",
+      "Chlorophyll",
+      "Oxygen",
+      "Carbon dioxide",
+      "None of these"
+    ],
+    "17": [
+      "Science",
+      "Which is a blood vessel that carries blood away from the heart?",
+      "Artery",
+      "Vein",
+      "Capillary",
+      "Nerve"
+    ],
+    "18": [
+      "Science",
+      "Which is not a part of the vitamin B complex?",
+      "Ascorbic acid",
+      "Thiamine",
+      "Riboflavin",
+      "Folic acid"
+    ],
+    "19": [
+      "Science",
+      "Which of the following is an air-borne disease?",
+      "Measles",
+      "Typhoid",
+      "Pink eye",
+      "None of these"
+    ],
+    "20": [
+      "Science",
+      "Which organ of the body produces bile?",
+      "Liver",
+      "Gall bladder",
+      "Heart",
+      "Pancreas"
+    ],
+    "21": [
+      "Science",
+      "What is detergent?",
+      "A liquid surfactant",
+      "A liquid soluble",
+      "A liquid sovent",
+      "A liquid solution"
+    ],
+    "22": [
+      "Science",
+      "Which is not used as an alkali?",
+      "Nitrogen hydroxide",
+      "Carbon hydroxide",
+      "Potassium hydroxide",
+      "Sodium hydroxide"
+    ],
+    "23": [
+      "Science",
+      "What is the full form of ASLV?",
+      "Augmented Satellite Launch Vehicle",
+      "Automatic Satellite Launch Vehicle",
+      "Aero Space Launch Vehicle",
+      "Area Satellite Launch Vehicle"
+    ],
+    "24": [
+      "Science",
+      "What is the power of concave lens?",
+      "Negative",
+      "Positive",
+      "Both",
+      "None of these"
+    ],
+    "25": [
+      "Science",
+      "Which glasses or lens are used to correct the short sighted eye defect?",
+      "Concave Lens",
+      "Convex Lens",
+      "Bipolar Lens",
+      "None of the above"
+    ],
+    "26": [
+      "Science",
+      "Due to which phenomena the stick if immersed in water appears to be bent?",
+      "Refraction",
+      "Dispersion",
+      "Reflection",
+      "Scattering"
+    ],
+    "27": [
+      "Science",
+      "During lunar eclipse, the visible red colour is because of:",
+      "Dust in earth’s atmosphere",
+      "None of the above",
+      "Dust in moon’s atmosphere",
+      "Dust in space"
+    ],
+    "28": [
+      "Science",
+      "Which of the following device converts chemical energy in to electrical energy?",
+      "Battery",
+      "Loud Speaker",
+      "Solar Cell",
+      "Electric Motor"
+    ],
+    "29": [
+      "Science",
+      "The energy possessed by a body due to its position is called:",
+      "Potential Energy",
+      "Kinetic Energy",
+      "Mechanical Energy",
+      "Electrical Energy"
+    ],
+    "30": [
+      "Science",
+      "Joule is a unit of:",
+      "Work",
+      "Power",
+      "Momentum",
+      "None of these"
+    ],
+    "31": [
+      "Science",
+      "When an object falls freely towards the ground, then its total energy:",
+      "Remains constant",
+      "Increases",
+      "Decreases",
+      "First increases then decreases"
+    ],
+    "32": [
+      "Science",
+      "What is the smallest unit of power?",
+      "Watt",
+      "Kilowatt",
+      "Horse power",
+      "Milliwatt"
+    ],
+    "33": [
+      "Science",
+      "Which was the world's first successful electronic computer?",
+      "ENIAC ",
+      "PARAM",
+      "CRAY-1",
+      "Pascaline"
+    ],
+    "34": [
+      "Science",
+      "Which was the first virus detected on ARPANET?",
+      "Creeper Virus",
+      "Exe Flie",
+      "Peeper Virus",
+      "Trozen horse"
+    ],
+    "35": [
+      "Science",
+      "How is the quality of a printer is measured?",
+      "Dots per Inch",
+      "Strike per Inch",
+      "Words per Inch",
+      "Alphabet per strike"
+    ],
+    "36": [
+      "Science",
+      "Oncology is the study of:",
+      "Cancer",
+      "Birds",
+      "Mammals",
+      "Soil"
+    ],
+    "37": [
+      "Science",
+      "Epidemiology is the study of:",
+      "Epidemic disease",
+      "Endodermis disease",
+      "Dermis disease",
+      "None of these"
+    ],
+    "38": [
+      "Science",
+      "Name an instrument used to measure electric resistance?",
+      "Ohmmeter",
+      "Electrometer",
+      "Galvanometer",
+      "Spectrometer"
+    ],
+    "39": [
+      "Science",
+      "Name an instrument used to measure the intensity of earthquakes?",
+      "Richter Scale",
+      "Ammeter",
+      "Hyetometer",
+      "Oometer"
+    ],
+    "40": [
+      "Science",
+      "Aeroplane was invented by:",
+      "Wright Brothers",
+      "Edward Jenner",
+      "John Douglas",
+      "None of these"
+    ],
+    "41": [
+      "Science",
+      "Which of the following pairs is incorrect?",
+      "Faraday: Diffusion of gases",
+      "Roentgen: X-Ray",
+      "Newton: Law of Gravitation",
+      "Pasteur: Bacteriology"
+    ],
+    "42": [
+      "Science",
+      "Who came up with the theory of Plate tectonics?",
+      "Alfred Wegener",
+      "Max Planck",
+      "John Bardeen",
+      "Ernest Rutherford"
+    ], 
+    "43": [
+      "Science",
+      "Where was the World Wide Web created and in which year?",
+      "CERN, 1990",
+      "Photonics 21, 1989",
+      "CLUSTER. 1995",
+      "GikII, 1993"
+    ],
+    "45": [
+      "Science",
+      "Which out of the following is the file extension of for all Word documents?",
+      "Doc",
+      "Txt",
+      "PDF",
+      "Word"
+    ],
+    "46": [
+      "Science",
+      "Out of the following which can be both an input and an output device?",
+      "All of these",
+      "Network cards",
+      "Sound card",
+      "Graphics card"
+    ],
+    "47": [
+      "Science",
+      "What does SSL stand for?",
+      "Secure Socket Layer",
+      "Security  System Law",
+      "Security System Layers",
+      "None of these"
+    ],
+    "48": [
+      "Science",
+      "In which year Deep Purple a super computer beat chess wizard Garry Kasparov?",
+      "1997",
+      "1996",
+      "1998",
+      "1995"
+    ],
+    "49": [
+      "Science",
+      "The speed of a CPU is measured in what?",
+      "Hertz",
+      "Megahertz",
+      "Gigyabtyes",
+      "Byte"
+    ],
+    "50": [
+      "Science",
+      "Which type of memory that is held even after the computer is turned off?",
+      "Flash memory",
+      "State Memory",
+      "Random Memory",
+      "Secure Memory"
+    ],
+    "51": [
+      "Science",
+      "What will you associate the term Social Engineering when it comes to computers?",
+      "Hacking",
+      "Malware",
+      "Worms",
+      "Trojans"
+    ],
+    "52": [
+      "Science",
+      "Out of the following what kind of hackers are considered as good hackers?",
+      "White Hat Hackers",
+      "Black Hat Hackers",
+      "Gray Hat Hackers",
+      "Red Hat Hackers"
+    ],
+    "53": [
+      "Science",
+      "What does the command prompt uses?",
+      "Command Line Interface",
+      "Graphical User Interface",
+      "Text User Interface",
+      "None of these"
+    ],
+    "54": [
+      "Science",
+      "Which out of the following is a scripting language?",
+      "All of the above",
+      "Java",
+      "Python",
+      "Lisp"
+    ],
+    "55": [
+      "Science",
+      "What do you call a special set of memory cells in CPU?",
+      "Registers",
+      "Cache",
+      "Junk",
+      "RISC"
+    ],
+    "56": [
+      "Science",
+      "What out of the following is based on UNIX operating system?",
+      "GNU",
+      "ANU",
+      "PNU",
+      "CNU"
+    ],
+    "57": [
+      "Science",
+      "Which command determines the amount of time it takes data to travel from source to destination?",
+      "Ping",
+      "Pan",
+      "Pile",
+      "None of these"
+    ],
+    "58": [
+      "Science",
+      "Which is the largest unit of measurement for computer data?",
+      "Yottabyte",
+      "Yobibyte",
+      "Zebibyte",
+      "Zettabyte"
+    ],
+    "59": [
+      "Science",
+      "URL Stands for:",
+      "Uniform Resource Locator",
+      "Universal Serial Locator",
+      "Uniform Runtime Link",
+      "Universal Resource Link"
+    ],
+    "60": [
+      "Science",
+      "In a byte how many set of bits represent a single character in the computer's memory?",
+      "8 bits",
+      "13 bits",
+      "11 bits",
+      "9 bits"
+    ],
+    "61": [
+      "Science",
+      "In which unit is the electrical energy consumed by us recorded?",
+      "Kilowatt-hour",
+      "Volt",
+      "Kilowatt-minute",
+      "Kilowatt-second"
+    ],
+    "62": [
+      "Science",
+      "If the current reverses direction after equal intervals of time, it is called:",
+      "Alternating current",
+      "Direct current",
+      "Induced current",
+      "Ionic current"
+    ],
+    "63": [
+      "Science",
+      "The production of electricity from magnetism is called:",
+      "Electromagnetic induction",
+      "Electromagnetism",
+      "Electroluminescent wire",
+      "Electrostatics"
+    ],
+    "64": [
+      "Science",
+      "The current produced by moving a straight wire in a magnetic field is called:",
+      "Induced current",
+      "Direct current",
+      "Alternating current",
+      "Electromagnetism"
+    ],
+    "65": [
+      "Science",
+      "What is the current flowing in one direction called?",
+      "Direct current",
+      "Alternating current",
+      "Induced current",
+      "Ionic current"
+    ],
+    "66": [
+      "Science",
+      "Which device converts electrical energy into mechanical energy?",
+      "Motor",
+      "Generator",
+      "Windmill",
+      "Transformer"
+    ],
+    "67": [
+      "Science",
+      "Magnetic effect around a wire is due to:",
+      "Current flowing in it",
+      "The presence of metal",
+      "Circular loop",
+      "No current in it"
+    ],
+    "68": [
+      "Science",
+      "What do we called when the sound of frequency will be below 20 Hz?",
+      "Infrasonic",
+      "Audio sounds",
+      "Ultrasonic",
+      "Supersonics"
+    ],
+    "69": [
+      "Science",
+      "Why impurities are added to a semi-conductor?",
+      "To increase its electrical conductivity",
+      "To increase its life",
+      "To enables it to withstand higher voltages",
+      "To increase its electrical resistivity"
+    ],
+    "70": [
+      "Science",
+      "Which of the following is the SI unit of viscosity?",
+      "Poiseuille",
+      "Pascal",
+      "Degree",
+      "None of these"
+    ],
+    "71": [
+      "Science",
+      "Which of the following is measured in Pa (Pascal)?",
+      "Pressure",
+      "Thrust",
+      "Frequency",
+      "Conductivity"
+    ],
+    "72": [
+      "Science",
+      "Which of the following is not emitted by radioactive substance?",
+      "Neutrons",
+      "Alpha particles",
+      "Electromagnetic radiations",
+      "Electrons"
+    ],
+    "73": [
+      "Science",
+      "Semi-conductors are used for making:",
+      "Solar cells",
+      "Toasters",
+      "Geysers",
+      "Room heaters"
+    ],
+    "74": [
+      "Science",
+      "Which of the following are semi-conductors?",
+      "Silicon",
+      "Nichrome",
+      "Copper",
+      "Aluminium"
+    ],
+    "75": [
+      "Science",
+      "What is the SI unit of electric power?",
+      "Watt",
+      "Coulomb",
+      "Volt",
+      "Meter"
+    ],
+    "76": [
+      "Science",
+      "Which device is used to measure the depth of seas and oceans?",
+      "Fathometer",
+      "Gravometer",
+      "Gyroscope",
+      "Dilatometers"
+    ],
+    "78": [
+      "Science",
+      "Which device is used to detect and measure the purification of the milk?",
+      "Lactometer",
+      "Ganong Respiratory",
+      "Heart Lungs Machine",
+      "Microphone"
+    ],
+    "79": [
+      "Science",
+      "Name a device through which the truthness of the human being is examined?",
+      "Polygraph",
+      "Paicnometer",
+      "Quadrant",
+      "Radiometer"
+    ],
+    "80": [
+      "Science",
+      "Which devise is used to measure the intensity of the earthquake?",
+      "Seismograph",
+      "Oscilliograph",
+      "Comograph",
+      "Cardiograph"
+    ],
+    "81": [
+      "Science",
+      "Which device is used to listen the vibrations of the heart and lungs?",
+      "Stethoscope",
+      "Spectroscope",
+      "Stereoscope",
+      "None of these"
+    ],
+    "82": [
+      "Science",
+      "The equipment used in internal combustion heat engine, vehicle engine etc. is known as:",
+      "Carburator",
+      "Cyclotron",
+      "Crescograph",
+      "Altimeter"
+    ],
+    "83": [
+      "Science",
+      "What is the SI unit of potential difference?",
+      "Volt",
+      "Coulomb",
+      "Ampere",
+      "Ohm-metre"
+    ],
+    "84": [
+      "Science",
+      "Which instrument is used to measure potential difference?",
+      "Voltmeter",
+      "Galvanometer",
+      "Magnetometer",
+      "Ammeter"
+    ],
+    "85": [
+      "Science",
+      "A flow of electric charges in a conductor such as in a metal wire is called:",
+      "Electric current",
+      "Electric circuits",
+      "Resistance",
+      "Electric power"
+    ],
+    "86": [
+      "Science",
+      "The actual flow of electrons which constitute the current is from:",
+      "Negative to positive terminal",
+      "Positive to negative terminal",
+      "Flow at random",
+      "None of these"
+    ],
+    "87": [
+      "Science",
+      "Current is inversely proportional to:",
+      "Resistance",
+      "Potential difference",
+      "Voltage",
+      "Electric power"
+    ],
+    "88": [
+      "Science",
+      "The resistance of a conductor depends on its:",
+      "All of these",
+      "Thickness",
+      "Nature of material",
+      "Length"
+    ],
+    "89": [
+      "Science",
+      "What is the SI unit of resistance?",
+      "Ohm",
+      "Volt",
+      "Watt",
+      "Metre"
+    ],
+    "90": [
+      "Science",
+      "What happens to the resistance of a wire when its length is doubled?",
+      "Gets doubled",
+      "Becomes half",
+      "Becomes nil",
+      "None of these"
+    ],
+    "91": [
+      "Science",
+      "In Human beings the process of digestion of food begins in:",
+      "Mouth",
+      "Stomach",
+      "Food Pipe",
+      "Small Intestine"
+    ],
+    "92": [
+      "Science",
+      "Which of the following in biology is the energy currency of cells?",
+      "ATP",
+      "PDP",
+      "DTP",
+      "ADP"
+    ],
+    "93": [
+      "Science",
+      "Name the blood vessel which carries blood back to the heart?",
+      "Vein",
+      "Artery",
+      "Capillaries",
+      "Platelet"
+    ],
+    "94": [
+      "Science",
+      "Name a gas which is separated from the air by passing an electric current through water?",
+      "Oxygen",
+      "Carbon Dioxide",
+      "Butane",
+      "Nitrogen"
+    ],
+    "95": [
+      "Science",
+      "What is the chemical name of Baking Soda?",
+      "Sodium Hydrogen Carbonate",
+      "Potassium Carbonate",
+      "Potassium Hydrogen Carbonate",
+      "Sodium Carbonate"
+    ],
+    "96": [
+      "Science",
+      "Name the particles which make up matter?",
+      "Atoms",
+      "Metalloids",
+      "Metals",
+      "Non metals"
+    ],
+    "97": [
+      "Science",
+      "Particles of matter have following characteristics:",
+      "All of these",
+      "They constantly move",
+      "They attract each other",
+      "They are very small"
+    ],
+    "98": [
+      "Science",
+      "Which of the following is the property of Solid?",
+      "Have definite shape",
+      "Can be compressed",
+      "Have low density",
+      "Intermolecular force is less"
+    ],
+    "99": [
+      "Science",
+      "Which of the following is a property of diffusion?",
+      "All of these",
+      "Slowest in liquids",
+      "Fastest in gases",
+      "Based on motion of particles"
+    ],
+    "100": [
+      "Science",
+      "By which technique salt is obtained from sea-water?",
+      "Evaporation",
+      "Filtration",
+      "Distillation",
+      "Chromatography"
+    ],
+    "101": [
+      "Science",
+      "Diffusion in liquids is an example of:",
+      "Spreading of ink in water",
+      "Smell of food",
+      "Smell of perfume",
+      "Fragrance of incense stick"
+    ],
+    "102": [
+      "Science",
+      "Which of the following metal can be cut down with the help of knife?",
+      "All of these",
+      "Sodium",
+      "Potassium",
+      "Gallium"
+    ],
+    "103": [
+      "Science",
+      "Other than mercury which other metal is liquid at room temperature?",
+      "Gallium",
+      "Sodium",
+      "Lithium",
+      "Caesium"
+    ],
+    "104": [
+      "Science",
+      "Name a metal which is used in making airplanes?",
+      "Aluminium",
+      "Iron",
+      "Zinc",
+      "Copper"
+    ],
+    "105": [
+      "Science",
+      "Which of the following statement is true regarding Solar Eclipse?",
+      "Both A and B",
+      "Only A",
+      "Moon passes between the Earth and Sun",
+      "Moon blocks the light of the Sun"
+    ],
+    "106": [
+      "Science",
+      "What is the maximum width of the path of totality during Solar Eclipse?",
+      "269 Km",
+      "200 Km",
+      "250 Km",
+      "278 Km"
+    ],
+    "107": [
+      "Science",
+      "Each year how many Solar Eclipses can occur?",
+      "Between 2 and 5",
+      "Between 0 and 2",
+      "Between 10 and 20",
+      "Between 200 and 500"
+    ],
+    "108": [
+      "Science",
+      "In which type of Solar Eclipse, Sun looks as if a bite has been taken from it?",
+      "Partial Solar Eclipse",
+      "Total Solar Eclipse",
+      "Totality and Maximum Solar Eclipse",
+      "Hybrid Solar Eclipse"
+    ],
+    "109": [
+      "Science",
+      "Certain phenomena can only be seen during a total solar eclipse:",
+      "All of these",
+      "Shadow bands",
+      "Diamond Ring",
+      "The Sun's Corona"
+    ],
+    "110": [
+      "Science",
+      "What out of the following is based on UNIX operating system?",
+      "GNU",
+      "ANU",
+      "PNU",
+      "CNU"
+    ],
+    "111": [
+      "Science",
+      "Which command determines the amount of time it takes data to travel from source to destination?",
+      "Ping",
+      "Pan",
+      "Pile",
+      "None of these"
+    ],
+    "112": [
+      "Science",
+      "Which is the largest unit of measurement for computer data?",
+      "Yottabyte",
+      "Yobibyte",
+      "Zebibyte",
+      "Zettabyte"
+    ],
+    "113": [
+      "Science",
+      "URL Stands for:",
+      "Universal Serial Locator",
+      "Uniform Runtime Link",
+      "Uniform Resource Locator",
+      "Universal Resource Link"
+    ],
+    "114": [
+      "Science",
+      "In a byte how many set of bits represent a single character in the computer's memory?",
+      "8 bits",
+      "9 bits",
+      "11 bits",
+      "13 bits"
+    ],
+    "115": [
+      "Science",
+      "What is the unit called that is used to measure the processing power of a processor's floating point unit?",
+      "Gigaflops",
+      "Ggigo",
+      "Gnutella",
+      "Gopher"
+    ],
+    "116": [
+      "Science",
+      "What are arrow keys, Page Up/Page Down Home End Esc keys knows as ?",
+      "Navigational  key",
+      "Dead keys",
+      "Functional keys",
+      "None of these"
+    ],
+    "117": [
+      "Science",
+      "What is set of dynamic named values that can affect the whole running processes will behave on a computer called?",
+      "Environment variables",
+      "Batch Processing",
+      "Binary Unit",
+      "None of these"
+    ],
+    "118": [
+      "Science",
+      "In which format Windows NT system store the Registry?",
+      "Binary",
+      "Point of Sale",
+      "Mesh",
+      "STP Coax"
+    ],
+    "119": [
+      "Science",
+      "Which out of the following is true about bit?",
+      "It is the smallest unit of storage",
+      "It is the biggest unit of storage",
+      "It is a collection of date arranged in rows",
+      "It is a collection of date arrange in columns"
+    ],
+    "120": [
+      "Science",
+      "What is the full form of ASCII?",
+      "American Standard Code for Information Interchange",
+      "American Standard Computer for Internet Interchange",
+      "American Standard Code for Internet Interchange",
+      "American Standard Computer for Information Interchange"
+    ],
+    "121": [
+      "Science",
+      "Which of the following is the first calculating device?",
+      "Abacus",
+      "Calculator",
+      "Turing Machine",
+      "Pascaline"
+    ],
+    "122": [
+      "Science",
+      "Who among the following considered as the 'father of artificial intelligence'?",
+      "John McCarthy",
+      "Charles Babbage",
+      "Lee De Forest",
+      "JP Eckert"
+    ],
+    "123": [
+      "Science",
+      "Which one of the following does not belong to Long Term Evolution (LTE) technology?",
+      "It increases latency",
+      "It increases the spectral efficiency",
+      "It reduces the cost of transmission",
+      "Downlink and uplink data rates are increased by it"
+    ],
+    "124": [
+      "Science",
+      "Which metal is used by the jewellers to make gold and platinum ornaments heavier?",
+      "Iridium",
+      "Rhodium",
+      "Erbium",
+      "Thorium"
+    ],
+    "125": [
+      "Science",
+      "Which one of the following gases are released from the ground, minutes or hours before an earthquake is about to strike?",
+      "Radon",
+      "Xenon",
+      "Argon",
+      "Helium"
+    ],
+    "126": [
+      "Science",
+      "Which of the following has pH value 7?",
+      "Neutral Solution",
+      "Pure water",
+      "Basic Solution",
+      "None of these"
+    ],
+    "127": [
+      "Science",
+      "Which of the following does not contain neutrons?",
+      "Hydrogen",
+      "Oxygen",
+      "Nitrogen",
+      "Copper"
+    ],
+    "128": [
+      "Science",
+      "Who discovered DNA?",
+      "James Watson and Francis Crick",
+      "Gregor Mendel",
+      "Johannsen",
+      "Hargovind Khorana"
+    ],
+    "129": [
+      "Science",
+      "Body temperature is regulated by",
+      "Hypothalamus",
+      "Thalamus",
+      "Cerebellum",
+      "Medulla"
+    ],
+    "130": [
+      "Science",
+      "The unit of electric power is",
+      "Watt",
+      "Volt",
+      "Ampere",
+      "Coulomb"
+    ],
+    "131": [
+      "Science",
+      "In an electrical motor",
+      "Electrical energy is converted into mechanical energy",
+      "Heat is converted into electrical energy",
+      "Electrical energy is converted into heat",
+      "Mechanical energy is converted into electrical energy"
+    ],
+    "132": [
+      "Science",
+      "Which is not a space station?",
+      "Yuri 1",
+      "Tiangong-1",
+      "Skylab",
+      "Mir"
+    ],
+    "133": [
+      "Science",
+      "The powerhouse of the cell is:",
+      "Mitochondria",
+      "Cell Wall",
+      "Ribosome",
+      "Nucleus"
+    ],
+    "134": [
+      "Science",
+      "AIDS is caused by:",
+      "Virus",
+      "Water",
+      "Bacteria",
+      "Fungus"
+    ],
+    "135": [
+      "Science",
+      "Which instrument is used to measure humidity?",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "136": [
+      "Science",
+      "What is the unit of pressure?",
+      "Newton/sq. Meter",
+      "Newton-meter",
+      "Newton",
+      "Newton/meter"
+    ],
+    "137": [
+      "Science",
+      "Which one of the following waves are used by the common TV remote control?",
+      "Infrared waves",
+      "Radio waves",
+      "Lasers",
+      "Ultrasonic waves"
+    ],
+    "138": [
+      "Science",
+      "If we say the child has an IQ of 100, what does this means?",
+      "The mental age of the child is equal to his actual age.",
+      "The performance of the child is below average.",
+      "The performance of the child is above average.",
+      "The performance of the child cannot be better."
+    ],
+    "139": [
+      "Science",
+      "Which one of the following bacteria present in the soil produces a peculiar smell if it rains on perched soil?",
+      "Streptomycetes",
+      "Staphymycetes",
+      "Diplomycetes",
+      "Micrococcus"
+    ],
+    "140": [
+      "Science",
+      "In poorly ventilated buildings which one of the following inert gases can be accumulated?",
+      "Radon",
+      "Helium",
+      "Neon",
+      "Argon"
+    ],
+    "141": [
+      "Science",
+      "Which Polymer is used in making non-stick kitchen ware?",
+      "Teflon",
+      "Nylon",
+      "Polystyrene",
+      "Bakelite"
+    ],
+    "142": [
+      "Science",
+      "Name the polymer used in making bullet proof glass?",
+      "Lexan",
+      "Melamine",
+      "Bakelite",
+      "Vinyl rubber"
+    ],
+    "143": [
+      "Science",
+      "Entomology is the science that studies",
+      "Insects",
+      "Behavior of human beings",
+      "The origin and history of technical and scientific terms",
+      "The formation of rocks"
+    ],
+    "144": [
+      "Geography",
+      "Eritrea, which became the 182nd member of the UN in 1993, is in the continent of",
+      "Africa",
+      "Asia",
+      "Europe",
+      "Australia"
+    ],
+    "145": [
+      "History",
+      "Hitler party which came into power in 1933 is known as",
+      "Nazi Party",
+      "Labour Party",
+      "Ku-Klux-Klan",
+      "Democratic Party"
+    ],
+    "146": [
+      "Geography",
+      "Epsom (England) is the place associated with",
+      "Horse racing",
+      "Polo",
+      "Shooting",
+      "Snooker"
+    ],
+    "147": [
+      "Science",
+      "First human heart transplant operation conducted by Dr. Christiaan Barnard on Louis Washkansky, was conducted in",
+      "1967",
+      "1993",
+      "1958",
+      "1922"
+    ],
+    "148": [
+      "Sports",
+      "Golf player Vijay Singh belongs to which country?",
+      "Fiji",
+      "USA",
+      "India",
+      "UK"
+    ],
+    "149": [
+      "Science",
+      "Gravity setting chambers are used in industries to remove",
+      "suspended particulate matter",
+      "SOx",
+      "CO",
+      "NOx"
+    ],
+    "150": [
+      "Science",
+      "Friction can be reduced by changing from",
+      "sliding to rolling",
+      "rolling to sliding",
+      "potential energy to kinetic energy",
+      "dynamic to static"
+    ],
+    "151": [
+      "Religion",
+      "Fire temple is the place of worship of which of the following religion?",
+      "Zoroastrianism ",
+      "Taoism",
+      "Judaism",
+      "Shintoism"
+    ],
+    "152": [
+      "History",
+      "During World War II, when did Germany attack France?",
+      "1940",
+      "1941",
+      "1942",
+      "1943"
+    ],
+    "153": [
+      "Science",
+      "The ozone layer restricts",
+      "Ultraviolet radiation",
+      "X-rays and gamma rays",
+      "Infrared radiation",
+      "Visible light"
+    ],
+    "154": [
+      "Science",
+      "Ecology deals with",
+      "Relation between organisms and their environment",
+      "Birds",
+      "Cell formation",
+      "Tissues"
+    ],
+    "155": [
+      "Science",
+      "Eugenics is the study of",
+      "altering human genetics",
+      "people of European origin",
+      "different races of mankind",
+      "genetic of plants"
+    ],
+    "156": [
+      "Science",
+      "Filaria is caused by",
+      "Mosquito",
+      "Bacteria",
+      "Protozoa",
+      "Virus"
+    ],
+    "157": [
+      "Science",
+      "Escape velocity of a rocket fired from the earth towards the moon is a velocity to get rid of the",
+      "Earth's gravitational pull",
+      "Moon's gravitational pull",
+      "Centripetal force due to the earth's rotation",
+      "Pressure of the atmosphere"
+    ],
+    "158": [
+      "Science",
+      "For safety, the fuse wire used in the mains for household supply of electricity must be made of metal having",
+      "low melting point",
+      "high resistance",
+      "high melting point",
+      "low specific heat"
+    ],
+    "159": [
+      "Sports",
+      "Durand Cup is associated with the game of",
+      "Football",
+      "Cricket",
+      "Hockey",
+      "Volleyball"
+    ],
+    "160": [
+      "Science",
+      "Headquarters of UNO are situated at",
+      "New York, USA",
+      "Hague (Netherlands)",
+      "Geneva",
+      "Paris"
+    ],
+    "161": [
+      "Science",
+      "For seeing objects at the surface of water from a submarine under water, the instrument used is",
+      "periscope",
+      "kaleidoscope",
+      "spectroscope",
+      "telescope"
+    ],
+    "162": [
+      "Science",
+      "G-15 is an economic grouping of",
+      "Third World Nations",
+      "First World Nations",
+      "Second World Nations",
+      "Fourth World Nations"
+    ],
+    "163": [
+      "Science",
+      "Fathometer is used to measure",
+      "Ocean depth",
+      "Rainfall",
+      "Earthquakes",
+      "Sound intensity"
+    ],
+    "164": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "165": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],  	
+    "166": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "167": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "168": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "169": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "170": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "171": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "172": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "173": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "174": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "175": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "176": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "177": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "178": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "179": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "180": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "181": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "182": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "183": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "184": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "185": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "186": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "187": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "188": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "189": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "190": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "191": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "192": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "193": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "194": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "195": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "196": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "197": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "198": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "199": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "200": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "201": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "202": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "203": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "204": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "205": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "206": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "207": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "208": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "209": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "210": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "211": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "212": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "213": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "214": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "215": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "216": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "217": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "218": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "219": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "220": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "221": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "222": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "223": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "224": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "225": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "226": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "227": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "228": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "229": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "230": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "231": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "232": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "233": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "234": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ],
+    "235": [
+      "Science",
+      "Which",
+      "Hygrometer",
+      "Hydrometer",
+      "Pyrometer",
+      "Lactometer"
+    ]
   }
 }
